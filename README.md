@@ -7,7 +7,7 @@
 - 🔧 Building solutions at the intersection of AI, IoT, and Web Development
 
 
-<a href="https://github.com/Anuraghazra/Anuragreat">
+<a href="https://github.com/Anuragreat/Anuragreat">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragreat&layout=compact&theme=transparent&hide_border=true" />
 </a>
 </br>
