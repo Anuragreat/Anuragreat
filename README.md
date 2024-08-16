@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/Anuraghazra/Anuragreat">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragreat&layout=compact&theme=transparent" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragreat&layout=compact&theme=transparent&border=false" />
 </a>
 </br>
 <a href="https://github.com/Anuragreat/Anuragreat">
