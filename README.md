@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anuragreat&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragreat&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragreat&layout=compact&theme=transparent)
 <!--
 **Anuragreat/Anuragreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
