@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anuragreat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anuragreat&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <!--
 **Anuragreat/Anuragreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
