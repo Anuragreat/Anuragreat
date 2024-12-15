@@ -1,6 +1,5 @@
 **🌟 Data Science Enthusiast | Full Stack Developer**
 
-- 🎓  Graduating 2025
 - 🚀 Experienced in Python, C++, Django, and Data Visualization
 - 🌑 Passionate about Space Tech 
 - 🏸 Badminton Player | 📚 Avid Reader | 🎨 Art Creator
