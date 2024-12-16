@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9PtfS5tTC8ejlYfCLU/giphy.gif" alt="White Wolf Howling at the Full Moon" width="600" height="300" />
+  <img src="[https://media.giphy.com/media/9PtfS5tTC8ejlYfCLU/giphy.gif](https://tenor.com/view/acww-sunset-2-animal-crossing-wild-world-aesthetic-gif-9970088263435959263)" alt="White Wolf Howling at the Full Moon" width="600" height="300" />
 </p>
 
 ---
