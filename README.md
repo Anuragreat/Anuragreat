@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/62/21/30/622130c23d21c3873ad2c9ea6fcbb80e.gif" width="600" height="300" />
+<img src="https://media1.tenor.com/m/ilzec6lkO98AAAAd/acww-sunset-2.gif" width="600" height="300" />
  </p> 
 
 ---
