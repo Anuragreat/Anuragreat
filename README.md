@@ -1,6 +1,6 @@
 # 🌟 Data Science Enthusiast | Full Stack Developer  
 
-- 🚀 **Experienced in Python, C++, FastAPI, Django, and Data Visualization**  
+- 🚀 **Experienced in Python, C++, FastAPI, Django, & Data Visualization**  
 - 🌑 **Passionate about Space Tech**  
 - 🔧 **Building solutions at the intersection of AI, IoT, and Web Development**  
 - 🏸 **Badminton Player** | 📚 **Avid Reader** | 🎨 **Art Creator**  
