@@ -2,7 +2,7 @@
 
 - 🚀 **Experienced in Python, C++, FastAPI, Django, & Data Visualization**  
 - 🌑 **Passionate about Space Tech**  
-- 🔧 **Building solutions at the intersection of AI, IoT, and Web Development**  
+- 🔧 **Building solutions at the intersection of AI, IoT, and Web Dev**  
 - 🏸 **Badminton Player** | 📚 **Avid Reader** | 🎨 **Art Creator**  
 - 🌐 **Explore my new website**: [yt-playlist-len-calc](https://yt-playlist-len-calc.onrender.com)  
 
@@ -79,7 +79,7 @@
 
 ---
 
-### 🔗 **Connect with Me**  
+### 🔗 **Connect with Me **  
 <p align="center">
   <a href="https://github.com/Anuragreat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
