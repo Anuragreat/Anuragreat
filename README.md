@@ -3,7 +3,7 @@
 - 🚀 **Experienced in Python, C++, FastAPI, Django, & Data Visualization**  
 - 🌑 **Passionate about Space Tech**  
 - 🔧 **Building solutions at the intersection of AI, IoT, and Web Dev**  
-- 🏸 **Badminton Player** | 📚 **Avid Reader** | 🎨 **Art Creator**  
+- 🏸 **Badminton Players** | 📚 **Avid Reader** | 🎨 **Art Creator**  
 - 🌐 **Explore my new website**: [yt-playlist-len-calc](https://yt-playlist-len-calc.onrender.com)  
 
 
