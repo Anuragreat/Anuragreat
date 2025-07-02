@@ -8,14 +8,6 @@
 
 
 
------
-
-
-<p align="center">
-<img src="https://media1.tenor.com/m/ilzec6lkO98AAAAd/acww-sunset-2.gif" width="600" height="300" /> <br></br> 
-<b><i>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन, 
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि"</i></b>
-</p>
 
 
 ----
