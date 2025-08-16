@@ -4,7 +4,7 @@
 - 🌑 **Passionate about Space Tech**  
 - 🔧 **Building solutions at the intersection of AI, IoT, and Web Dev**  
 - 🏸 **Badminton Players** | 📚 **Avid Reader** | 🎨 **Art Creator**  
-- 🌐 **Explore my new website**: [yt-playlist-len-calc](https://ytplaylist.in)  
+- 🌐 **Explore my new website**: [ytplaylist.in](https://ytplaylist.in)  
 
 
 
