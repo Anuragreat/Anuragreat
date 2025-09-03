@@ -11,7 +11,7 @@
 ### 🌐 **My Projects & Websites**
 
 * 🔗 [ytplaylist.in](https://ytplaylist.in) → *YouTube Playlist Duration Calculator (React, FastAPI)*
-* 🔗 [note-front-tau.vercel.app](https://note-front-tau.vercel.app) → *Notes App (React, Django REST)*
+* 🔗 [note-front-tau.vercel.app](https://note-front-tau.vercel.app) → *Notes App (React, Spring Boot REST)*
 * 🔗 [agriinnovate.onrender.com](https://agriinnovate.onrender.com) → *AgriInnovate: Farmers’ Dashboard (Django, APIs, DataViz)*
 
 ---
