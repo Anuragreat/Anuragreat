@@ -1,6 +1,6 @@
 # 🌟 Data Science Enthusiast | Full Stack Developer
 
-* 🚀 **Experienced in Python, C++, Django, FastAPI, React & Data Visualization**
+* 🚀 **Experienced in Python, JAVA, Django, Spring Boot, React & Data Visualization**
 * 🌑 **Passionate about Space Tech & Hackathons**
 * 🔧 **Building solutions at the intersection of AI, IoT, and Web Development**
 * 📊 **Skilled in Machine Learning, APIs, and Cloud Deployment**
